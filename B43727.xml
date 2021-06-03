@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals, humbly offered to the honourable House of Commons,  for the raising a fund for the better enabling Their Majesties towards the carrying on a vigorous war against France.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43727</idno><idno type="EEBO-CITATION">767620167</idno>
+  <idno type="VID">212633</idno>
+  <idno type="EEBO-PROQUEST">2264205598</idno>
+  
+            <idno type="OCLC"> 767620167</idno>
+            <idno type="OCLC">ocn 767620167</idno>
+            <idno type="STC">Wing P3759</idno>
+            <idno type="STC">ESTC R182193</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43727)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 212633)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 3023:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals, humbly offered to the honourable House of Commons,  for the raising a fund for the better enabling Their Majesties towards the carrying on a vigorous war against France.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1694?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Columbia University Library (New York, N.Y.).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Stamp duties --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Grand Alliance, War of the, 1689-1697 --  Finance --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:212633:1"/>
+            <pb facs="tcp:212633:2"/>
+            <head>
+               <hi>PROPOSALS,</hi> Humbly Offered to the Honourable <hi>House of Commons,</hi> for the Raising a <hi>Fund</hi> for the better Enabling <hi>Their Majesties</hi> towards the Carrying on a Vigorous War against <hi>France.</hi>
+            </head>
+            <p>THAT it be Enacted, that a Supply of the several sorts and sizes of Parchment and Paper, for the Ends, In<g ref="char:EOLhyphen"/>tents and Purposes herein after-mentioned, be from time to time provided, during the Continuance of this proposed Act, at the proper Cost and Charges of Their Majesties, Their Heirs and Successors, having and bearing such different Impressions, Seals and Stamps thereon, as Their Majesties in Their Great Wisdom shall Esteem most meet and convenient, to the End that such Parchment and Papers, and no other, shall or may from time to time, during the Continuance of this Act, be made use of or employed by Their Majesties Subjects, in such manner, and at, for and under, and upon such Rates and Prizes for the same, as are and be herein after particularly mentioned.</p>
+            <p>That for the more easie Collection of the said Rates and Prizes, so to be settled or rated, by this Honourable House, some convenient place in or about the City of <hi>London</hi> or <hi>Westminster,</hi> be chosen or erected by such person or persons, as Their Majesties shall thereunto Commissionate, Nominate or Appoint; from whence a General distribution of the said Parchments and Papers may be made throughout Their Majesties Kingdom and Dominion.</p>
+            <p>That for the Encouragement of <hi>Stationers,</hi> and all other persons whatsoever, to distribute the said Parchment and Papers, it be Enacted, That a Profit of <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap>
+               <hi>per cent.</hi> be allowed to every Retailer of the same.▪</p>
+            <p>That for the more easie supply of the small Towns and Country-Villages, the Collectors or Receivers of Their Ma<g ref="char:EOLhyphen"/>jesties Customs or Excise, or other Their Majesties Revenues, shall and be supplied with such quantities of Parchment and Papers as from time to time they can vend or dispose of, giving an account every Month of the several sorts and sizes by them so sold or disposed of.</p>
+            <p>That all and every Installments, or Creation to Dignities; All Advancements in Quality; All Promotions either in Church or State; All gradual Advancements in Universities, Colledges or Free-Schools; All Preferments, Ecclesiasti<g ref="char:EOLhyphen"/>cal, Military or Civil, shall be wrote or printed thereon, for which shall be paid</p>
+            <p>That all Pardons, Reprieves, or Relaxation from pecuniary Fines or Corporal Punishments be written thereon, for which shall be paid</p>
+            <p>That all Petitions to Their Majesties, or either Houses of Parliament, or any of Their Majesties most Honourable Privy Council, or other Their Majesties Ministers or Officers, Ecclesiastical, Military or Civil, shall be wrote thereon, for which shall be paid</p>
+            <p>That all poor and indigent Persons, who receive the Alms of the Parish, or are allowed to Sue or Plead in <hi>Forma pau<g ref="char:EOLhyphen"/>peris,</hi> shall have such inferior Paper as shall be thereunto appointed, at the first or prime cost thereof.</p>
+            <p>That all Corporations, Companies, Universities, Colledges, Bodies Politique, or other publique Communities or Socie<g ref="char:EOLhyphen"/>ties, enjoying the benefit of His Majesties Charters, shall not receive or grant any Petition, or dispose of any Places of Benefit or Profit, but what shall be wrote on the said Paper, for which shall be paid</p>
+            <p>That no person deliver any Bills or Accounts exceeding the Summ of <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> relating to their Majesties most Honourable Houshold, Stables, Store-houses, Magazins, or other Offices or Places belonging to Their Majesties but what is wrote on the said Paper, for which shall be paid</p>
+            <p>That all Tradesmens Quarterly or Annual Bills, for any Goods or Commodities delivered to and for the use of their Majesties, or any other person or persons whatsoever, be wrote on the said Paper, for which shall be paid</p>
+            <p>That all Commissions, Warrants, Grants, Charters, Briefs, Certificates, Citations, Licences for Wine, Ale and Beer, and all other Licenses whatsoever, grantable by their Majesties or any of their Ministers or other Officers, either Ecclesi<g ref="char:EOLhyphen"/>astical, Military or Civil, within their Majesties Kingdom and Dominions, be wrote or printed on the said Parchment or Paper, for which shall be paid</p>
+            <p>That all Bonds, Contracts, Agreements, Leases, Deeds, Releases, Awards, Arbitration-Bonds, Charter-parties, Pol<g ref="char:EOLhyphen"/>licies of Insurance, Protests, Bills of Sales, Letters of Atturney, or other obligatory Instruments whatsoever, be wrote on the said Parchment or Paper, for which shall be paid</p>
+            <p>That all Processes at Law in all and every their Majesties Courts, all Writs, Affidavits, Interrogatories, Depositions, or other proceedings in Law or Equity, or any other inferiour or other Court, be wrote on the said Paper or Parchment, for which shall be paid</p>
+            <p>That all Copies of Records, Judgments, Decrees, Sentences, Awards, Orders, or any other proceedings in any of their Majesties Courts, be wrote the first Sheet thereof on the said Paper, and to be continued by one Sheet in for which shall be paid</p>
+            <p>That all Indentures, Leases, Deeds, Indented or Poll, Wills, Administrations, Naturalizations, Dennizations, Free<g ref="char:EOLhyphen"/>doms, and all other the like Deeds or Instruments whatsoever, shall be wrote on the said Paper or Parchment, for which shall be paid</p>
+            <p>That all Ptinted Bonds, Releases, Pollicies of Insurance, Letters of Atturney, Charter-parties, and other obligatory Instruments whatsoever, be printed on the said Paper or Parchment, for which shall be paid</p>
+            <p>That it be provided if any person or persons whatsoever, shall presume to Counterfeit the said Impression, Seal or Stamp, such person or persons so offending, shall be punished as in Cases of High Treason.</p>
+            <p>That all and every the aforementioned Grants or Deeds, or other Writings or Instruments whatsoever, mentioned to be wrote or printed on the said Parchment or Paper, not being wrote or printed thereon, shall be void and of no effect to all intents and purposes, as if the same had never been made or executed.</p>
+            <p>And to the end that no person or persons whatsoever, may pretend Ignorance of the several Ends, Intents or Purposes, to which the said Parchment or Paper ought or should be used or employed, As also to prevent an Imposition of greater Rates and Prizes, on their Majesties Subjects, by the Retailers of the said Parchment and Papers, <hi>Be it Enacted,</hi> That the Seals, Impression or Stamps, so to be sixed, on the several sorts and sizes of Paper and Parchments, do particularly mention the price and use to which the same should and ought to be applied.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
